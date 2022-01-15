@@ -1,0 +1,42 @@
+header{
+  background: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  color:whitesmoke;
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+  background-image: url("https://www.transparenttextures.com/patterns/black-mamba.png"); 
+
+  /* background-image: url("https://images.unsplash.com/photo-1629794226066-349748040fb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  background-size: center;
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
+
+h1{
+  padding:1%;
+}
+h5{
+  padding:2%;
+  margin-bottom: 2%;
+  margin-left: 3%;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+button{
+  width:20%;
+}
+
+.input-control{
+  margin:1%;
+  padding:0.35%;
+  size: 30;
+  width:20%;
+}
+
